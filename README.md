@@ -1,4 +1,4 @@
-# Ignite-ML-Intern-Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering
+# Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering
 
 Dataset link - https://archive.ics.uci.edu/dataset/352/online+retail
 
